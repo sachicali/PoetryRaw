@@ -1,6 +1,15 @@
-{
+{  
+  "name": "poetryRaw",
+  "version": "1.0.0",
+  "description": "Poetic Dump",
+  "main": "index.js",
+  "type": "module",
   "dependencies": {
     "discord.js": "^14.16.3",
     "dotenv": "^16.4.5"
-  }
+  },
+  "repository": "git@github.com:sachicali/PoetryRaw.git",
+  "author": "Vinchi <calingasan.vinchi@gmail.com>",
+  "license": "MIT",
+  "private": true
 }
