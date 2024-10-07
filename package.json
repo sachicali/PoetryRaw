@@ -1,4 +1,4 @@
-{  
+{
   "name": "PoetryRaw",
   "version": "1.0.0",
   "description": "Poetic Dump",
@@ -6,7 +6,9 @@
   "type": "module",
   "dependencies": {
     "discord.js": "^14.16.3",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "glob": "^11.0.0"
   },
   "repository": "git@github.com:sachicali/PoetryRaw.git",
   "author": "Vinchi <calingasan.vinchi@gmail.com>",
